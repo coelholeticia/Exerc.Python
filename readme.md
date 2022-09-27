@@ -20,4 +20,4 @@ Dicionarios:
 
 [Documentação: ](https://wiki.python.org.br/DocumentacaoPython)
 
-[!](https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif)
+![](https://i.pinimg.com/originals/f2/cf/8d/f2cf8db002f228e3385f6f6c33ea64b4.gif)
