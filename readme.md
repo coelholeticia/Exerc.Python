@@ -1,6 +1,6 @@
 # lista de exercicios resolvidos em python
 
-Os exercicios desse repositório é para treinar o racicionio e a sintaxe em python.
+Os exercicios desse repositório é para treinar a lógica e a sintaxe em python.
 
 strings:
 
